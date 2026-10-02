@@ -16,6 +16,7 @@
 function es1_1(a, b) {
   // 1. Restituisci la somma di a e b
   // TODO: scrivi qui la tua soluzione
+  return a + b 
 }
 
 function es1_2(a, b) {
