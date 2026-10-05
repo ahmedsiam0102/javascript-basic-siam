@@ -14,6 +14,7 @@ function es22() {
   const prezzo = 80;
   const sconto = 25;
   // TODO: scrivi qui la tua soluzione
+  return Math.min (a, b, c);
 }
 
 // --- NON MODIFICARE SOTTO ---
