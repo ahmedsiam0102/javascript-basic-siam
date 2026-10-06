@@ -11,11 +11,13 @@
 function es5_1(val) {
   // 1. Restituisci il contrario di val
   // TODO: scrivi qui la tua soluzione
+  return !val
 }
 
 function es5_2() {
   // 2. Restituisci il risultato di !true
   // TODO: scrivi qui la tua soluzione
+  return !true
 }
 
 function es5_3(disconnesso) {
