@@ -10,8 +10,29 @@
 
 // --- SCRIVI QUI LA TUA SOLUZIONE ---
 
-function es23(a, b, operatore) {
+function es23(a, b, operatore)
+//switch (operatore) {
+  //case = "+" :
+    //return a + b 
+    //break; 
+  
+  
+
+{
   // TODO: scrivi qui la tua soluzione
+  if (operatore == "+") {
+    return a + b;
+  }
+  if (operatore == "-") {
+    return a - b;
+  }
+    
+  if (operatore == "*"){
+    return a * b;
+  }
+  if (operatore == "/") {
+    return a / b;
+  }
 }
 
 // --- NON MODIFICARE SOTTO ---
