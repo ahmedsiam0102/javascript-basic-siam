@@ -25,6 +25,7 @@ function es12(ruolo, isLogged) {
   else {
     return false
   }
+  // return (ruolo === "admin")
     
     
   //return ruolo === "admin" || ruolo === "editor" || (ruolo === "viewer" && isLogged);
