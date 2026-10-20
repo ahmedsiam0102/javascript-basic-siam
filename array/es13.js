@@ -12,16 +12,22 @@
 function es13_1(arr) {
   // 1. Restituisci solo i numeri maggiori di 10
   // TODO: scrivi qui la tua soluzione
+  console.log(arr)
+  return arr.filter(numero => numero >10)
 }
 
 function es13_2(arr) {
   // 2. Restituisci solo le stringhe con lunghezza >= 5
   // TODO: scrivi qui la tua soluzione
+  console.log (arr)
+  return arr.filter(nia => nia.length >=5)
 }
 
 function es13_3(arr) {
   // 3. Restituisci solo i numeri pari
   // TODO: scrivi qui la tua soluzione
+  console.log (arr)
+  return arr.filter(nia => nia %2 ==0)
 }
 
 // --- NON MODIFICARE SOTTO ---
