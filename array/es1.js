@@ -12,8 +12,6 @@ function es1_1(arr) {
   // 1. Restituisci la lunghezza dell'array ricevuto
   // TODO: scrivi qui la tua soluzione
   return arr.length;
-
-
 }
 
 function es1_2() {

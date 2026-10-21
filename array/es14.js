@@ -27,10 +27,8 @@ function es14_3(arr) {
   // 3. Se l'array contiene il numero 5, restituisci "trovato", altrimenti "non trovato"
   // Suggerimento: usa find() o includes()
   // TODO: scrivi qui la tua soluzione
-  if arr.includes (5)
-return ("trovato")
-else 
-return ("non trovato")}
+  arr.includes (5) 
+}
 
 // --- NON MODIFICARE SOTTO ---
 export { es14_1, es14_2, es14_3 };

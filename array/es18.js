@@ -14,6 +14,8 @@
 function es18() {
   const parole = ["ciao", "mondo", "javascript"];
   // TODO: scrivi qui la tua soluzione
+  return parole.map(p => p )
+  
 }
 
 // --- NON MODIFICARE SOTTO ---

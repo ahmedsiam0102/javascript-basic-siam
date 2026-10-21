@@ -13,6 +13,11 @@
 
 function es19(voti) {
   // TODO: scrivi qui la tua soluzione
+  console.log(voti)
+  const somma= voti.reduce ((acc, item )=>acc+ item, 0)
+  const media = somma / voti.length;
+  return {somma, media}
+ 
 }
 
 // --- NON MODIFICARE SOTTO ---
